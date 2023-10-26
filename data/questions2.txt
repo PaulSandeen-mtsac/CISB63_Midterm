@@ -1,0 +1,20 @@
+broken arm:What date did you break your arm (mm/dd/yyyy)?
+broken leg:What date did you break your leg (mm/dd/yyyy)?
+broken foot:What date did you break your foot (mm/dd/yyyy)?
+broken ribs:What date did you break your ribs (mm/dd/yyyy)?
+sprain ankle:What date did you sprain your ankle (mm/dd/yyyy)?
+itch eye:What date did your eye itch start (mm/dd/yyyy)?
+red eye:What date did your eye redness start (mm/dd/yyyy)?
+pain chest:What date did your chest pain start (mm/dd/yyyy)?
+pain ankle:What date did your ankle pain start (mm/dd/yyyy)?
+pain mouth:What date did your mouth pain start (mm/dd/yyyy)?
+pain gum:What date did your break your leg (mm/dd/yyyy)?
+pain back:What date did your back pain start (mm/dd/yyyy)?
+ache stomach:What date did your stomach ache start (mm/dd/yyyy)?
+ache joint:What date did your aching joint start (mm/dd/yyyy)?
+ache tooth:What date did your tooth ache start (mm/dd/yyyy)?
+rash skin:What date did your skin rash start (mm/dd/yyyy)?
+itch skin:What date did your skin itch (mm/dd/yyyy)?
+bite bug:What date did you get your bug byte (mm/dd/yyyy)?
+bite insect:What date did you get your insect byte (mm/dd/yyyy)?
+bite dog:What date did you get your dog byte (mm/dd/yyyy)?

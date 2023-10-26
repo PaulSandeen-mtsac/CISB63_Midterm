@@ -1,0 +1,2 @@
+intro:Hello! I'm Medi - your Medical Diagnostic ChatBot! How can I help you?
+outtro:Thank you for using Medi! Was my advice helpful?

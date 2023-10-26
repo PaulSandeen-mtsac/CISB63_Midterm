@@ -1,0 +1,20 @@
+broken arm:I have a broken arm.
+broken leg:I have a broken leg.
+broken foot:I have a broken foot.
+broken ribs:I have broken ribs.
+sprain ankle:I have a sprained ankle.
+itch eye:I have itchy eyes.
+red eye:I have red eyes.
+pain chest:I have chest pain.
+pain ankle:I have ankle pain.
+pain mouth:I have mouth pain.
+pain gum:I have gum pain.
+pain back:I have back pain.
+ache stomach:I have a stomach ache.
+ache joint:I have joint pain.
+ache tooth:I have a tooth ache.
+rash skin:I have a skin rash.
+itch skin:My skin itches.
+bite bug:I have a bug bite.
+bite insect:I have an insect bite.
+bite dog:I have a dog bite.

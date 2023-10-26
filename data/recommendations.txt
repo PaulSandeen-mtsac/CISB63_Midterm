@@ -1,0 +1,20 @@
+broken arm:Go to your nearest hospital and get an X-ray.
+broken leg:Go to your nearest hospital and get an X-ray.
+broken foot:Go to your nearest hospital and get an X-ray.
+broken ribs:Go to your nearest hospital and get an X-ray.
+sprain ankle:Elevate the ankle and apply an ice pack.
+itch eye:Wash out the affected eye. Make an appointment with your doctor.
+red eye:Wash out the affected eye. Make an appointment with your doctor.
+pain chest:Go to the nearest Emergency Room immediately!
+pain ankle:Elevate the ankle and apply an ice pack.
+pain mouth:See your local dentist.
+pain gum:See your local dentist.
+pain back:Get bed rest and try relax.
+ache stomach:Take milk of magnesia.
+ache joint:Make an appointment to see your doctor.
+ache tooth:See your local dentist.
+rash skin:Apply Calamine lotion to the area.
+itch skin:Apply Calamine lotion to the area.
+bite bug:Wash the area and apply Calamine lotion.
+bite insect:Wash the area and apply Calamine lotion.
+bite dog:Go to the nearest Emergency Room immediately!

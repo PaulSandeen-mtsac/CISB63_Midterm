@@ -1,0 +1,20 @@
+broken arm:How did you break your arm?
+broken leg:How did you break you leg?
+broken foot:How did you break your foot?
+broken ribs:How did you break your ribs?
+sprain ankle:Is there bruising in the area?
+itch eye:Which eye is affected?
+red eye:Which eye is affected?
+pain chest:Is this the first time you've had chest pain?
+pain ankle:Have you had pain in you ankle before?
+pain mouth:Where in the mouth does it hurt?
+pain gum:Are the gums bleeding?
+pain back:What caused the back pain (lifting heavy objects)?
+ache stomach:Did you eat something unusual?
+ache joint:Do you have arthritis
+ache tooth:Has the tooth caused pain before?
+rash skin:Where is the skin rash?
+itch skin:Is there a rash in the area?
+bite bug:Where is the bug byte?
+bite insect:Where is the insect byte?
+bite dog:Where is the dog byte?
