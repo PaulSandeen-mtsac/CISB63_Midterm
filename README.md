@@ -1,4 +1,4 @@
-# CISB63_Midterm
+# CISB63_Midterm - 'Medi': The NLP-Based Medical Diagnostic Chatbot
 Mt. SAC CISB63 Midterm Project
 
 Providing timely and accurate medical advice for non-life-threatening conditions is one aspect of the health care system where technology can be a benefit, especially to historically underserved communities.
